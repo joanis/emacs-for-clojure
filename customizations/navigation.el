@@ -59,3 +59,5 @@
 
 ;; projectile everywhere!
 (projectile-global-mode)
+
+(column-number-mode)
